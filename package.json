@@ -1,0 +1,17 @@
+{
+  "name": "sybil",
+  "version": "1.0.0",
+  "description": "Sybil (System Yielding Bot Intellicent Logistic) è un bot per la gestione e la logistica che permette di salvaguardare e organizzare il tuo server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MarcyMiranda2004",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "dotenv": "^17.2.3"
+  }
+}
