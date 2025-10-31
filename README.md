@@ -1,6 +1,6 @@
 # 🤖 Sybil – Discord Assistant Bot
 
-Sybil è un bot Discord modulare scritto in **Node.js** con **discord.js v14+**.  
+Sybil (System Yielding Bot Intelligent Logistic) è un bot Discord modulare scritto in **Node.js** con **discord.js v14+**.  
 Permette di gestire comandi modulari, assegnare ruoli automaticamente e interagire con gli utenti.
 
 ---
@@ -18,6 +18,7 @@ Permette di gestire comandi modulari, assegnare ruoli automaticamente e interagi
   - [6. Routing dei messaggi e parsing dei comandi](#6-routing-dei-messaggi-e-parsing-dei-comandi)
   - [7. Ruolo ospite automatico](#7-ruolo-ospite-automatico)
   - [8. Login del bot](#8-login-del-bot)
+- [🔍 Spiegazione passo-passo dei Comandi](#-spiegazione-passo-passo-dei-comandi)
 - [🛠 Esempio: file comando (`commands/info.js`)](#-esempio-file-comando-commandsinfojs)
 - [💡 Best practice e note](#-best-practice-e-note)
 - [🚀 Avvio rapido](#-avvio-rapido)
